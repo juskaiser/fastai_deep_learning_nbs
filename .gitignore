@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+data/
+utils.pyc
+vgg16.pyc
+vgg16bn.pyc
